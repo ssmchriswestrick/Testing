@@ -1,0 +1,12 @@
+{
+    "keys":  [
+                 {
+                     "kty":  "RSA",
+                     "use":  "sig",
+                     "alg":  "RS384",
+                     "kid":  "qgenda-epic-1",
+                     "n":  "yS3DS2aqikCD_i7Hz7fmzXZO16jwpQJwC74rN2qS3T8lEmkxlst1pqHqH1-P5W5fzFJh6E2-sMQzsV7DcduYAnw1foE4gh6oFYJnzrPolqsGkwdujbFe3s570bF5gG_1BFFbKbHXaUWnctw61FwqtAlxx3_vBi0_iQWfPocWVomU0ey_9_cCzZNIJuN7XEr62UyDgGGFMWAl_0E7b-lXFrp7v9s58UVgHA7L10vj2H6zhQJ_b2wd89_cVMaylga7n0QJ99GLfdqD5w4akUyW10af0PA51uzSut_X8wYqKzcX9w6aLrDINmNlMZ_IsLbzwhu3j_p9QKGvxrJJECl4EQ",
+                     "e":  "AQAB"
+                 }
+             ]
+}
